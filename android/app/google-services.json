@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "185785391363",
+    "firebase_url": "https://stc-production-150269.firebaseio.com",
+    "project_id": "stc-production-150269",
+    "storage_bucket": "stc-production-150269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185785391363:android:8f0d0bff8d3ccaabaef136",
+        "android_client_info": {
+          "package_name": "com.example.bullseye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185785391363-taoueltsdg6u7ts2570cmfk9is6rg6ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rWNeLXtlHO8rnZ2rsI8Bpmgnw8ui1us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104063332064196482799",
+              "client_type": 3
+            },
+            {
+              "client_id": "185785391363-1cbvlsvq6t7q22l7o183h82d7d17o23k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sweettreeconnect.carer",
+                "app_store_id": "1581421998"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185785391363:android:fb1ef86bdcd4c9f7aef136",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185785391363-taoueltsdg6u7ts2570cmfk9is6rg6ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rWNeLXtlHO8rnZ2rsI8Bpmgnw8ui1us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104063332064196482799",
+              "client_type": 3
+            },
+            {
+              "client_id": "185785391363-1cbvlsvq6t7q22l7o183h82d7d17o23k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sweettreeconnect.carer",
+                "app_store_id": "1581421998"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185785391363:android:233971de9dd29a64aef136",
+        "android_client_info": {
+          "package_name": "com.sweettreeconnect.carer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185785391363-07i094vcr01vdtkkglclkbgg1c879jr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sweettreeconnect.carer",
+            "certificate_hash": "0f833eff0b8a5a0df9e0b10671497850cbb371ca"
+          }
+        },
+        {
+          "client_id": "185785391363-taoueltsdg6u7ts2570cmfk9is6rg6ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rWNeLXtlHO8rnZ2rsI8Bpmgnw8ui1us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104063332064196482799",
+              "client_type": 3
+            },
+            {
+              "client_id": "185785391363-1cbvlsvq6t7q22l7o183h82d7d17o23k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sweettreeconnect.carer",
+                "app_store_id": "1581421998"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
